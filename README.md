@@ -1,8 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fábio A. S. Leite
-=========================================================================================================================================I am a chemist/material scientist working in Product Development getting his feet into Data Science and learning code. My passion is to make ideas become real things we can use and improve our lives! Check out my github profile, it might have something to help you out or drop me a email, I might be able to help out with our project!* ✉️  You can contact me at [fabio.as.leite@pm.me](mailto:fabio.as.leite@pm.me)* 🧠  I'm learning Python, Pandas, Machine Learning, MySQL* 🤝  I'm open to collaborating on Data processing or system optimization* ⚡  4th year Chemistry PhD student at Vienna University working on functional materials
+<h1 align="center">Hi 👋, I'm Fábio A. S. Leite</h1>
+<h3 align="center">I am a chemist/material scientist working in Product Development getting his feet into Data Science and learning code. My passion is to make ideas become real things we can use and improve our lives! Check out my github profile, it might have something to help you out or drop me a email, I might be able to help out with our project!</h3>
 
-### Skills
+- 🔭 I’m currently taking my skills to a new level with **a Data science couse at WBS coding school**
+* 🧠  I'm learning Python, Pandas, Machine Learning, MySQL*
+* 🤝  I'm open to collaborating on Data processing or system optimization*
+* ⚡  4th year Chemistry PhD student at Vienna University working on functional materials*
+* ✉️  You can contact me at [fabio.as.leite@pm.me](mailto:fabio.as.leite@pm.me)*
 
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
@@ -16,8 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/fl-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
+<h3 align="left">Support:</h3>
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/flhub"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
