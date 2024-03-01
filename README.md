@@ -40,7 +40,6 @@
 
 <!-- Support -->
 <h3 align="left">Support</h3>
-<a href="https://www.ko-fi.com/flhub">
-   <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-</a>
+<p align="left"> <a href="https://www.ko-fi.com/flhub"> <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+
 </p>
