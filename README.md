@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fábio A. S. Leite</h1>
-<h3 align="center">I am a chemist/material scientist getting his feet into Data Science and learning code. My passion is to make ideas become real things we can use and improve our lives! Check out my github for profile, it might have something to help you out or drop me a email, I might be able to help out with our project! </h3>
+<h3 align="center">I am a chemist/material scientist getting his feet into Data Science and learning code. My passion is to make ideas become real things we can use and improve our lives! Check out my github profile, it might have something to help you out or drop me a email, I might be able to help out with our project! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fl-hub&label=Profile%20views&color=0e75b6&style=flat" alt="fl-hub" /> </p>
 
