@@ -32,11 +32,10 @@
 
 <!-- Metrics -->
 <h3 align="left">My GitHub Stats</h3>
-<a href="https://github.com/fl-hub">
-   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-   <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</a>
-</p>
+<p align="left"><a href="https://github.com/fl-hub">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</a></p>
 
 <!-- Support -->
 <h3 align="left">Support</h3>
