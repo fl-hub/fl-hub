@@ -19,20 +19,9 @@
 <a href="https://www.truenas.com/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/truenas.png?raw=true" width="36" height="36" alt="TrueNAS" /></a>
 <a href="https://inkscape.org/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/inkscape.png?raw=true" width="36" height="36" alt="Inkscape" /></a>
 <a href="https://www.latex-project.org/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/latex.png?raw=true" width="36" height="36" alt="LaTeX" /></a>
-
-
-
-
-
-
 </p>
-
-
-
-
   
 <h3 align="left">Socials</h3>
-
 <p align="left"> <a href="https://www.github.com/fl-hub" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fabioleitein" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://orcid.org/0000-0002-6315-7414 target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/orcidwb.png?raw=true" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/orcidwb.png?raw=true" /> <img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/orcidwb.png?raw=true" width="32" height="32" /> </picture> </a></p>
 
 
@@ -43,8 +32,8 @@
   <summary><b>📊 Metrics</b></summary>
     <p>
 <a href="https://github.com/fl-hub">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+   <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </a>
 </p>
 </details>
