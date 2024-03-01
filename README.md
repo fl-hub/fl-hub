@@ -24,6 +24,7 @@
 <a href="https://www.truenas.com/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/truenas.png?raw=true" width="36" height="36" alt="TrueNAS" /></a>
 <a href="https://inkscape.org/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/inkscape.png?raw=true" width="36" height="36" alt="Inkscape" /></a>
 <a href="https://www.latex-project.org/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/latex.png?raw=true" width="36" height="36" alt="LaTeX" /></a>
+<a href="https://www.tableau.com/" target="_black" rel"noreferrer"><img src="https://github.com/fl-hub/icons/blob/main/Icons%20Github%20profile/tableau_white.png?raw=true" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 <!-- Socials-->
