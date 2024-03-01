@@ -37,7 +37,6 @@
    <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </a>
 </p>
-</details>
 
 <!-- Support -->
 <h3 align="left">Support</h3>
@@ -45,4 +44,3 @@
    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </a>
 </p>
-</details>
