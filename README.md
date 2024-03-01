@@ -18,7 +18,17 @@
 
 <h3 align="left">My GitHub Stats</h3>
 
-<a href="http://www.github.com/fl-hub" align="right"><img src="https://github-readme-stats.vercel.app/api?username=fl-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fl-hub's GitHub stats" /></a> <a href="https://github.com/fl-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Metrics -->
+<details open>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+<a href="https://github.com/fl-hub">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</a>
+</p>
+</details>
+
 
 <h3 align="left">Support</h3>
 <ul style="list-style-type: none; margin: 0;">
