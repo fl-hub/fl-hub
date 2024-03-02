@@ -7,7 +7,7 @@
 
 * 🔭 I’m currently taking my skills to a new level with **a Data science course at WBS coding school**
 * 🧠  I'm learning Python, Pandas, Machine Learning, MySQL
-* 🤝  I'm open to collaborating on Data processing or system optimization
+* 🤝  I'm open to collaborating on Data processing, system optimization or product development
 * ⚡  4th year Chemistry PhD student at Vienna University working on functional materials
 * ✉️  You can contact me at [fabio.as.leite@pm.me](mailto:fabio.as.leite@pm.me)
 
