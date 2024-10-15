@@ -1,14 +1,14 @@
 <!-- header-->
 <h1 align="center">Welcome to the fl-hub!</h1>
-<h4 align="center">I am a chemist/material scientist working in Product Development getting his feet into Data Science and learning code. My passion is to make ideas become real things we can use and improve our lives! Check out my github profile, it might have something to help you out or drop me an email, I might be able to help out with your project!</h4>
+<h4 align="center">I am a chemist/material scientist working in Product Development getting his feet into programming. My passion is to make ideas become real things we can use and improve our lives! Check out my github profile, it might have something to help you out or drop me an email, I might be able to help out with your project!</h4>
 
 <!-- Current-->
 <h3 align="left">Summary</h3>
 
-* 🔭 I’m currently taking my skills to a new level with **a Data science course at WBS coding school**
-* 🧠  I'm learning Python, Pandas, Machine Learning, MySQL
+* 🔭  Currently bulding a Virtual Data Center as a member of the ComputeHorde community
+* 🧠  Python, Pandas, Machine Learning, MySQL, Docker, GenerativeAI
 * 🤝  I'm open to collaborating on Data processing, system optimization or product development
-* ⚡  4th year Chemistry PhD student at Vienna University working on functional materials
+* ⚡  Recently completed my PhD in Natural Sciences from the Vienna University working on functional materials
 * ✉️  You can contact me at [fabio.as.leite@pm.me](mailto:fabio.as.leite@pm.me)
 
 
